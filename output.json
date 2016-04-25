@@ -1,0 +1,367 @@
+{
+	"image": [
+		[
+			"0",
+			"0",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"0",
+			"0"
+		],
+		[
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0"
+		],
+		[
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"0",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1"
+		],
+		[
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0"
+		],
+		[
+			"0",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"0",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"0"
+		],
+		[
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"0",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0"
+		],
+		[
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"0",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1"
+		],
+		[
+			"0",
+			"1",
+			"0",
+			"0",
+			"0",
+			"1",
+			"0",
+			"0",
+			"0",
+			"1",
+			"0",
+			"0",
+			"0",
+			"1",
+			"0"
+		],
+		[
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"0",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1"
+		],
+		[
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"0",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0"
+		],
+		[
+			"0",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"0",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"0"
+		],
+		[
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0"
+		],
+		[
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"0",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1"
+		],
+		[
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0"
+		],
+		[
+			"0",
+			"0",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"1",
+			"0",
+			"0"
+		]
+	],
+	"across": [
+		{
+			"number": "1",
+			"clue": " Second Sprite I had during game is plain (4-7)"
+		},
+		{
+			"number": "9",
+			"clue": " Institute, mediocre at educating groups (6)"
+		},
+		{
+			"number": "10",
+			"clue": " Loyal supporter beginning to accept breaking law (8)"
+		},
+		{
+			"number": "11",
+			"clue": " Inquisitive one on the inside is buzzing (5)"
+		},
+		{
+			"number": "12",
+			"clue": " Criticise study after study receiving money (7)"
+		},
+		{
+			"number": "13",
+			"clue": " Free time for book it is learned (8)"
+		},
+		{
+			"number": "15",
+			"clue": " Cirrus is pronouncedly watery (6)"
+		},
+		{
+			"number": "16",
+			"clue": " Sneaky chap, heartless rat (6)"
+		},
+		{
+			"number": "18",
+			"clue": " Bad silt, it can cut up edges of a building (8)"
+		},
+		{
+			"number": "20",
+			"clue": " One drug induced experience (7)"
+		},
+		{
+			"number": "21",
+			"clue": " At first pious members of lower house backed a religious text (5)"
+		},
+		{
+			"number": "22",
+			"clue": " Go through annals about some Africans (8)"
+		},
+		{
+			"number": "23",
+			"clue": " Doubly senseless going outside of society (6)"
+		},
+		{
+			"number": "24",
+			"clue": " Memento that represents nowadays (2,3,6)"
+		}
+	],
+	"down": [
+		{
+			"number": "2",
+			"clue": " Look over fire pit (7)"
+		},
+		{
+			"number": "3",
+			"clue": " Showy adornments not new or hot (5)"
+		},
+		{
+			"number": "4",
+			"clue": " Have a curved tool to pop end of black blister (7)"
+		},
+		{
+			"number": "5",
+			"clue": " Identifying nature of some Adivasi song aided in appreciation (9)"
+		},
+		{
+			"number": "6",
+			"clue": " Date one by one? (3,4)"
+		},
+		{
+			"number": "7",
+			"clue": " Bombastic and affectedly darn long? Quite (13)"
+		},
+		{
+			"number": "8",
+			"clue": " Declaration of professional name by a setter (13)"
+		},
+		{
+			"number": "14",
+			"clue": " Consequences that frame criminal (9)"
+		},
+		{
+			"number": "17",
+			"clue": " Ethereal medium doesn't last (7)"
+		},
+		{
+			"number": "18",
+			"clue": " Group turning around deficit to flourish (7)"
+		},
+		{
+			"number": "19",
+			"clue": " Mediator in trouble after raising an issue (7)"
+		},
+		{
+			"number": "21",
+			"clue": " Present philosophy in solid shape (5)"
+		}
+	]
+}
