@@ -9,6 +9,9 @@ var router = express.Router();
 router.get('/', function(req, res){
 	
 	var url = 'mongodb://localhost:27017/THC';
+	if(process.env.OPENSHIFT_MONGODB_DB_URL){
+  		mongodb_connection_string = process.env.OPENSHIFT_MONGODB_DB_URL + "THC";
+	}
 	mongoose.connect(url);
 	var db = mongoose.connection;
 	db.on('error', console.error.bind(console, 'connection error:'));
@@ -23,7 +26,7 @@ router.get('/', function(req, res){
 				xword.save(function(err, xword){
 					if(err){
 						db.close();
-						res.end("Error" + err);
+						res.end("Error: " + err);
 						return console.error(err);
 					}
 					console.log(xword);
@@ -37,6 +40,9 @@ router.get('/', function(req, res){
 
 router.get('/test/', function(req, res){
 	var url = 'mongodb://localhost:27017/THC';
+	if(process.env.OPENSHIFT_MONGODB_DB_URL){
+  		mongodb_connection_string = process.env.OPENSHIFT_MONGODB_DB_URL + "THC";
+	}
 	mongoose.connect(url);
 	var db = mongoose.connection;
 	db.on('error', console.error.bind(console, 'connection error:'));
